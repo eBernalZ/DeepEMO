@@ -1,0 +1,6 @@
+linear
+concave
+degenerated
+disconnected
+mixed
+convex
